@@ -20,3 +20,5 @@ This project documents hands-on IT support tasks completed in Microsoft Azure, i
 ## 01 - Create Resource Group
 
 Created an Azure Resource Group named `RGLab01` in the East US region to organize and manage the resources used throughout this lab.
+
+![Azure Resource Group Created](screenshots/Research%20group%20created.png)
